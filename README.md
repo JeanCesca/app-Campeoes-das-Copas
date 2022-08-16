@@ -6,7 +6,6 @@ Storyboard;
 MVC;
 UITableViewController;
 JSON Parsing;
-Protocols/Extensions.
 
 ### View 1:
 TableView indicando a Final do respectivo ano da Copa.
